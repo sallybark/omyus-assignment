@@ -1,6 +1,6 @@
 ## Click Counter
 
-## 시작하기
+시작하기  
 
 1. npm install
 
