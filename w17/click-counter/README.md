@@ -10,7 +10,7 @@
 3. DB 연결 후 prisma migration 으로 테이블 생성  
    ex. npx prisma migrate dev --name 이름  
 
-4. Prisma seed로 데이터베이스 초기값 설정
+4. Prisma seed로 데이터베이스 초기값 설정  
    ex. npx prisma db seed  
 
 5. next app 실행 / npm run dev
