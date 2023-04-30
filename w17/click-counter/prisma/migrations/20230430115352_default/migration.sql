@@ -1,4 +1,3 @@
--- npx prisma migrate dev --name 
 -- CreateTable
 CREATE TABLE `Counter` (
     `id` INTEGER NOT NULL AUTO_INCREMENT,
